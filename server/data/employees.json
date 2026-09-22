@@ -1,0 +1,24 @@
+[
+  {
+    "employeeId": "STF-BRKG-002",
+    "name": "Kruthik Pranav TR",
+    "email": "kruthikpranavtr02@gmail.com",
+    "phone": "+91 98450 69352",
+    "department": "Engineering",
+    "role": "DEPARTMENT_MANAGER",
+    "designation": "Operations Specialist",
+    "organizationId": "SMR-CMP-0001",
+    "organizationType": "Company / Startup",
+    "attendance": 95,
+    "performance": "Good",
+    "salary": "₹40,000/mo",
+    "id": "STF-BRKG-002",
+    "userId": "STF-BRKG-002",
+    "organization_id": "SMR-CMP-0001",
+    "orgId": "SMR-CMP-0001",
+    "status": "Active",
+    "joined": "2026-09-22",
+    "createdAt": "2026-09-22T06:48:14.889Z",
+    "updatedAt": "2026-09-22T06:48:14.889Z"
+  }
+]

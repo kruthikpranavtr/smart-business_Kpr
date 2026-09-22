@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CRS-CS-01",
+    "courseId": "CRS-CS-01",
+    "organizationId": "SMR-CMP-0003",
+    "name": "B.Tech Computer Science & Engineering",
+    "code": "CSE-UG",
+    "department": "Computer Science",
+    "program": "Undergraduate",
+    "duration": "4 Years",
+    "semesters": 8,
+    "status": "Active"
+  },
+  {
+    "id": "CRS-IT-01",
+    "courseId": "CRS-IT-01",
+    "organizationId": "SMR-CMP-0003",
+    "name": "B.Tech Information Technology",
+    "code": "IT-UG",
+    "department": "Information Technology",
+    "program": "Undergraduate",
+    "duration": "4 Years",
+    "semesters": 8,
+    "status": "Active"
+  },
+  {
+    "id": "CRS-EC-01",
+    "courseId": "CRS-EC-01",
+    "organizationId": "SMR-CMP-0003",
+    "name": "B.Tech Electronics & Communication",
+    "code": "ECE-UG",
+    "department": "Electronics",
+    "program": "Undergraduate",
+    "duration": "4 Years",
+    "semesters": 8,
+    "status": "Active"
+  }
+]

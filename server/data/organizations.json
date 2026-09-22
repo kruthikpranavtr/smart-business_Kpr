@@ -1,0 +1,102 @@
+[
+  {
+    "id": "org-001",
+    "companyId": "SMR-CMP-0001",
+    "adminId": "ADM-CMP-0001",
+    "companyCode": "TECH-SOL",
+    "verification_status": "VERIFIED",
+    "name": "SMARTORA Tech Solutions",
+    "type": "Company / Startup",
+    "industry": "Information Technology & Cloud Software",
+    "tagline": "Enterprise Cloud Architecture & AI Automation",
+    "currency": "INR (₹)",
+    "currencySymbol": "₹",
+    "status": "Active",
+    "subscription": {
+      "plan": "Enterprise Plus",
+      "status": "Active",
+      "mrr": "₹14,999/mo",
+      "billingCycle": "Annual"
+    }
+  },
+  {
+    "id": "org-002",
+    "companyId": "SMR-CMP-0002",
+    "adminId": "ADM-CMP-0002",
+    "companyCode": "GRN-LEAF",
+    "verification_status": "VERIFIED",
+    "name": "GreenLeaf Restaurant & Cafe",
+    "type": "Restaurant / Cafe",
+    "industry": "Hospitality & Dining",
+    "tagline": "Artisanal Organic Dining & Specialty Roastery",
+    "currency": "INR (₹)",
+    "currencySymbol": "₹",
+    "status": "Active",
+    "subscription": {
+      "plan": "Growth Tier",
+      "status": "Active",
+      "mrr": "₹4,999/mo",
+      "billingCycle": "Monthly"
+    }
+  },
+  {
+    "id": "org-003",
+    "companyId": "SMR-CMP-0003",
+    "adminId": "ADM-CMP-0003",
+    "companyCode": "BRT-EDU",
+    "verification_status": "VERIFIED",
+    "name": "BrightFuture Institute of Technology",
+    "type": "College / Educational Institution",
+    "industry": "Higher Education & Research",
+    "tagline": "Empowering Next-Gen Technologists & Leaders",
+    "currency": "INR (₹)",
+    "currencySymbol": "₹",
+    "status": "Active",
+    "subscription": {
+      "plan": "Campus Enterprise",
+      "status": "Active",
+      "mrr": "₹24,999/mo",
+      "billingCycle": "Annual"
+    }
+  },
+  {
+    "id": "org-004",
+    "companyId": "SMR-CMP-0004",
+    "adminId": "ADM-CMP-0004",
+    "companyCode": "ABC-RTL",
+    "verification_status": "VERIFIED",
+    "name": "ABC Retail Store",
+    "type": "Retail Shop",
+    "industry": "Retail & Supermarket FMCG",
+    "tagline": "Fresh Groceries, FMCG & Daily Essentials",
+    "currency": "INR (₹)",
+    "currencySymbol": "₹",
+    "status": "Active",
+    "subscription": {
+      "plan": "Professional",
+      "status": "Active",
+      "mrr": "₹6,999/mo",
+      "billingCycle": "Annual"
+    }
+  },
+  {
+    "id": "org-005",
+    "companyId": "SMR-CMP-0005",
+    "adminId": "ADM-CMP-0005",
+    "companyCode": "LIF-CLN",
+    "verification_status": "VERIFIED",
+    "name": "LifeCare Multi-Speciality Clinic",
+    "type": "Clinic / Healthcare",
+    "industry": "Healthcare & Diagnostics",
+    "tagline": "Compassionate Diagnostic Care & Family Wellness",
+    "currency": "INR (₹)",
+    "currencySymbol": "₹",
+    "status": "Active",
+    "subscription": {
+      "plan": "Professional",
+      "status": "Active",
+      "mrr": "₹8,499/mo",
+      "billingCycle": "Annual"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "RM-101",
+    "roomNumber": "101",
+    "type": "Deluxe Suite",
+    "floor": "1st Floor",
+    "capacity": 2,
+    "price": 4500,
+    "status": "OCCUPIED",
+    "guestName": "Vikramaditya Hegde",
+    "checkOut": "2026-09-24",
+    "amenities": [
+      "King Bed",
+      "Balcony",
+      "High-Speed Wi-Fi",
+      "Mini Bar"
+    ],
+    "organizationId": "SMR-CMP-0002"
+  },
+  {
+    "id": "RM-102",
+    "roomNumber": "102",
+    "type": "Deluxe Suite",
+    "floor": "1st Floor",
+    "capacity": 2,
+    "price": 4500,
+    "status": "AVAILABLE",
+    "amenities": [
+      "King Bed",
+      "Garden View",
+      "High-Speed Wi-Fi"
+    ],
+    "organizationId": "SMR-CMP-0002"
+  },
+  {
+    "id": "RM-103",
+    "roomNumber": "103",
+    "type": "Standard Luxury",
+    "floor": "1st Floor",
+    "capacity": 2,
+    "price": 3200,
+    "status": "CLEANING",
+    "amenities": [
+      "Queen Bed",
+      "Smart TV",
+      "Work Desk"
+    ],
+    "organizationId": "SMR-CMP-0002"
+  },
+  {
+    "id": "RM-201",
+    "roomNumber": "201",
+    "type": "Executive Villa",
+    "floor": "2nd Floor",
+    "capacity": 4,
+    "price": 8500,
+    "status": "RESERVED",
+    "guestName": "Sarah Jenkins",
+    "checkIn": "2026-09-23",
+    "amenities": [
+      "Private Jacuzzi",
+      "Sunset View",
+      "Complimentary Breakfast"
+    ],
+    "organizationId": "SMR-CMP-0002"
+  },
+  {
+    "id": "RM-202",
+    "roomNumber": "202",
+    "type": "Executive Villa",
+    "floor": "2nd Floor",
+    "capacity": 4,
+    "price": 8500,
+    "status": "MAINTENANCE",
+    "maintenanceReason": "AC Servicing in progress",
+    "organizationId": "SMR-CMP-0002"
+  },
+  {
+    "id": "RM-203",
+    "roomNumber": "203",
+    "type": "Standard Luxury",
+    "floor": "2nd Floor",
+    "capacity": 2,
+    "price": 3200,
+    "status": "AVAILABLE",
+    "amenities": [
+      "Queen Bed",
+      "Pool View",
+      "Smart TV"
+    ],
+    "organizationId": "SMR-CMP-0002"
+  }
+]
