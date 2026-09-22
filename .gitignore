@@ -44,6 +44,7 @@ jspm_packages/
 
 # Snowpack server cache
 .snowpack
+.vite/
 
 # Storybook build outputs
 .out
